@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+*.log
+*.sublime-project
+*.sublime-workspace
+*.bak
+*_bak.*
+*.bak
+*vscode*
+*.vscode/*
+v8-compile-cache-0/*
+logs/*
+!.gitkeep
+

@@ -1,0 +1,16 @@
+{
+    "env" : "dev",
+    "port" : 4017,
+    "host": "www.zourunze.com",
+    "wechat": {
+        "appID": "",
+        "secret": "",
+        "token": "",
+        "encodingAESKey": ""
+    },
+    "redis": {
+        "host": "127.0.0.1",
+        "port": "6379",
+        "db": 1
+    }
+}

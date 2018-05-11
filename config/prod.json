@@ -1,0 +1,17 @@
+{
+    "env" : "production",
+    "port" : 6017,
+    "host": "wwww.zourunze.com",
+    "wechat": {
+        "appID": "",
+        "secret": "",
+        "token": "",
+        "encodingAESKey": ""
+    },
+    "redis": {
+        "host": "",
+        "port": "",
+        "password": "",
+        "db": 0
+    }
+}
